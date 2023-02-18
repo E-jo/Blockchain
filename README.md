@@ -1,4 +1,4 @@
 # Blockchain
 Jetbrains Academy project, initial commit
 
-Sort of a simple blockchain simulation
+Sort of a (very) simple blockchain simulation
