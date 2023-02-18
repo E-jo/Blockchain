@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BlockchainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-28T01:00:07" hostname="DESKTOP-DBQO5MD" time="1.254">
+  <properties/>
+  <testcase name="start" classname="BlockchainTest" time="1.254"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+
+Block:
+Created by: miner19
+miner19 gets 100 VC
+Id: 26
+Timestamp: 1632790807171
+Magic number: 1
+Hash of the previous block:
+00626471a11bf5aeb77ef5a2a4e6e2e4df104b25fdf1cf150c31546f7163d587
+Hash of the block:
+1d82f4a179729d2c5a55e300c8d2f9d6e3f1bb48be16ffb1aad5b13345bd8158
+Block data: no messages
+Messages in block: 0
+Block was generating for 40 milliseconds
+N was increased to 1
+
+
+Block:
+Created by: miner19
+miner19 gets 100 VC
+Id: 27
+Timestamp: 1632790807304
+Magic number: 6
+Hash of the previous block:
+1d82f4a179729d2c5a55e300c8d2f9d6e3f1bb48be16ffb1aad5b13345bd8158
+Hash of the block:
+06d2cacd332be467a5d0b13543bdc5e38a4f5a0eee7824c3a61ad75fda8bb1b5
+Block data: no messages
+Messages in block: 0
+Block was generating for 2 milliseconds
+N was increased to 2
+
+
+Block:
+Created by: miner19
+miner19 gets 100 VC
+Id: 28
+Timestamp: 1632790807343
+Magic number: 27
+Hash of the previous block:
+06d2cacd332be467a5d0b13543bdc5e38a4f5a0eee7824c3a61ad75fda8bb1b5
+Hash of the block:
+005f1570bdc65b1d317ff92b9e4471439ebba564bf1b98d6db32175b1b288131
+Block data: no messages
+Messages in block: 0
+Block was generating for 3 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner19
+miner19 gets 100 VC
+Id: 29
+Timestamp: 1632790807394
+Magic number: 47
+Hash of the previous block:
+005f1570bdc65b1d317ff92b9e4471439ebba564bf1b98d6db32175b1b288131
+Hash of the block:
+001c12e7021cc4c3464495579a4fc4ca68f0080f8703b52a05b0fd6bedb73cd5
+Block data: no messages
+Messages in block: 0
+Block was generating for 1 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner19
+miner19 gets 100 VC
+Id: 30
+Timestamp: 1632790807435
+Magic number: 11
+Hash of the previous block:
+001c12e7021cc4c3464495579a4fc4ca68f0080f8703b52a05b0fd6bedb73cd5
+Hash of the block:
+0032b833d812ce211fa75446d16d1ae73c84e7a9801bde0f4013d74e8595522c
+Block data: 
+Mike: test message 7
+Messages in block: 1
+Block was generating for 1 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner24
+miner24 gets 100 VC
+Id: 31
+Timestamp: 1632790807546
+Magic number: 300
+Hash of the previous block:
+0032b833d812ce211fa75446d16d1ae73c84e7a9801bde0f4013d74e8595522c
+Hash of the block:
+00095ec6d6e286cc2e467901efcec61cce77098c353a1ab1cddcc077d0757db6
+Block data: no messages
+Messages in block: 0
+Block was generating for 2 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner22
+miner22 gets 100 VC
+Id: 32
+Timestamp: 1632790807575
+Magic number: 93
+Hash of the previous block:
+00095ec6d6e286cc2e467901efcec61cce77098c353a1ab1cddcc077d0757db6
+Hash of the block:
+00d16ec95d94375b073489c123dcec6235d965cabce0c0916a37b39d0c701fac
+Block data: 
+Tina: test message 8
+Messages in block: 1
+Block was generating for 1 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner23
+miner23 gets 100 VC
+Id: 33
+Timestamp: 1632790807621
+Magic number: 65
+Hash of the previous block:
+00d16ec95d94375b073489c123dcec6235d965cabce0c0916a37b39d0c701fac
+Hash of the block:
+00f7e5305724eee64ed449fffb3b6cd72da0d771a8f1981bdfbf2f0e86318caa
+Block data: no messages
+Messages in block: 0
+Block was generating for 0 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner22
+miner22 gets 100 VC
+Id: 34
+Timestamp: 1632790807657
+Magic number: 831
+Hash of the previous block:
+00f7e5305724eee64ed449fffb3b6cd72da0d771a8f1981bdfbf2f0e86318caa
+Hash of the block:
+005d9ab04d90abfb7af3adcf3059023f8aaeee696e9bd04489c01b60efd843ac
+Block data: no messages
+Messages in block: 0
+Block was generating for 5 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner22
+miner22 gets 100 VC
+Id: 35
+Timestamp: 1632790807687
+Magic number: 136
+Hash of the previous block:
+005d9ab04d90abfb7af3adcf3059023f8aaeee696e9bd04489c01b60efd843ac
+Hash of the block:
+00d9c8f69b40cf8c09f7232cea405bd866bb90cae66c6ad493b12d70b85a1a0d
+Block data: no messages
+Messages in block: 0
+Block was generating for 30 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner22
+miner22 gets 100 VC
+Id: 36
+Timestamp: 1632790807754
+Magic number: 425
+Hash of the previous block:
+00d9c8f69b40cf8c09f7232cea405bd866bb90cae66c6ad493b12d70b85a1a0d
+Hash of the block:
+0080059d5ed3632ef18497e937367b6355d1bc03f4e0a26a1deb1e3720ae9fa4
+Block data: no messages
+Messages in block: 0
+Block was generating for 1 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner25
+miner25 gets 100 VC
+Id: 37
+Timestamp: 1632790807784
+Magic number: 29
+Hash of the previous block:
+0080059d5ed3632ef18497e937367b6355d1bc03f4e0a26a1deb1e3720ae9fa4
+Hash of the block:
+005fb3f999f21ab658947b874090022bb5cd8f86cc1f9110bc3e63529e79821a
+Block data: no messages
+Messages in block: 0
+Block was generating for 0 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner25
+miner25 gets 100 VC
+Id: 38
+Timestamp: 1632790807799
+Magic number: 91
+Hash of the previous block:
+005fb3f999f21ab658947b874090022bb5cd8f86cc1f9110bc3e63529e79821a
+Hash of the block:
+0069ce7bfdd05ce640f2d882a501005141984a40bbd4dfbd5be96628b7ebedd1
+Block data: no messages
+Messages in block: 0
+Block was generating for 0 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner22
+miner22 gets 100 VC
+Id: 39
+Timestamp: 1632790807814
+Magic number: 135
+Hash of the previous block:
+0069ce7bfdd05ce640f2d882a501005141984a40bbd4dfbd5be96628b7ebedd1
+Hash of the block:
+000d4c7129892f710c7ae258cd826f09713c82121689a88d771050c89a943dd7
+Block data: no messages
+Messages in block: 0
+Block was generating for 1 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner26
+miner26 gets 100 VC
+Id: 40
+Timestamp: 1632790807827
+Magic number: 787
+Hash of the previous block:
+000d4c7129892f710c7ae258cd826f09713c82121689a88d771050c89a943dd7
+Hash of the block:
+00c69d6e09cded491a73082d4bec1518c38f2d2575a3dbcbdb6d3720177800e1
+Block data: no messages
+Messages in block: 0
+Block was generating for 2 milliseconds
+N remained 2
+
+Total time: 0 seconds
+Shutting down threads
+Writing to file
+Done
+?[1;31m
+Start test 2?[0m
+
+Block:
+Created by: miner35
+miner35 gets 100 VC
+Id: 41
+Timestamp: 1632790807890
+Magic number: 1
+Hash of the previous block:
+00c69d6e09cded491a73082d4bec1518c38f2d2575a3dbcbdb6d3720177800e1
+Hash of the block:
+d4906f246343f71f8377288d006f599844fcdde9d0002272a9ae39d30af07621
+Block data: no messages
+Messages in block: 0
+Block was generating for 1 milliseconds
+N was increased to 1
+
+
+Block:
+Created by: miner34
+miner34 gets 100 VC
+Id: 42
+Timestamp: 1632790807904
+Magic number: 10
+Hash of the previous block:
+d4906f246343f71f8377288d006f599844fcdde9d0002272a9ae39d30af07621
+Hash of the block:
+0307dff2a9176f932fd32e402fb7b02dd35db1569c2a0d87020c5f9b6b8ee41b
+Block data: no messages
+Messages in block: 0
+Block was generating for 0 milliseconds
+N was increased to 2
+
+
+Block:
+Created by: miner31
+miner31 gets 100 VC
+Id: 43
+Timestamp: 1632790807921
+Magic number: 64
+Hash of the previous block:
+0307dff2a9176f932fd32e402fb7b02dd35db1569c2a0d87020c5f9b6b8ee41b
+Hash of the block:
+0098857de45750040f5819d4a934c88efde64949fb6d503e0fecc1da0b04e0f7
+Block data: no messages
+Messages in block: 0
+Block was generating for 1 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner31
+miner31 gets 100 VC
+Id: 44
+Timestamp: 1632790807942
+Magic number: 230
+Hash of the previous block:
+0098857de45750040f5819d4a934c88efde64949fb6d503e0fecc1da0b04e0f7
+Hash of the block:
+00cb1397f9bec55cd74b60930e453f7ab8652de0d7d8e1a298bd380d30a8bde3
+Block data: no messages
+Messages in block: 0
+Block was generating for 1 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner31
+miner31 gets 100 VC
+Id: 45
+Timestamp: 1632790807957
+Magic number: 153
+Hash of the previous block:
+00cb1397f9bec55cd74b60930e453f7ab8652de0d7d8e1a298bd380d30a8bde3
+Hash of the block:
+00cce1fe7b8a7104dc7ef0f09a31c5492d680d9bd12d9f0f0b41e8a0b010636e
+Block data: no messages
+Messages in block: 0
+Block was generating for 0 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner31
+miner31 gets 100 VC
+Id: 46
+Timestamp: 1632790808019
+Magic number: 440
+Hash of the previous block:
+00cce1fe7b8a7104dc7ef0f09a31c5492d680d9bd12d9f0f0b41e8a0b010636e
+Hash of the block:
+005382398caa375d497b5ed489157fe1bcd9fb7f9b1cf71acfa595b892d15bcf
+Block data: no messages
+Messages in block: 0
+Block was generating for 1 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner39
+miner39 gets 100 VC
+Id: 47
+Timestamp: 1632790808043
+Magic number: 723
+Hash of the previous block:
+005382398caa375d497b5ed489157fe1bcd9fb7f9b1cf71acfa595b892d15bcf
+Hash of the block:
+00cf4f6ceef617cc378fce7ae3bf7f59c027a6f50da00a3426d6fc2e9e9472e7
+Block data: no messages
+Messages in block: 0
+Block was generating for 6 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner33
+miner33 gets 100 VC
+Id: 48
+Timestamp: 1632790808081
+Magic number: 147
+Hash of the previous block:
+00cf4f6ceef617cc378fce7ae3bf7f59c027a6f50da00a3426d6fc2e9e9472e7
+Hash of the block:
+007ba5c4b1e81adfb9355afedb18af9a7703b38b8dfefbbe7436cbac6ae2e96f
+Block data: no messages
+Messages in block: 0
+Block was generating for 0 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner33
+miner33 gets 100 VC
+Id: 49
+Timestamp: 1632790808117
+Magic number: 7
+Hash of the previous block:
+007ba5c4b1e81adfb9355afedb18af9a7703b38b8dfefbbe7436cbac6ae2e96f
+Hash of the block:
+00e5a6b7c38c5e587d4927f73f0145849e0431be2afc0e18691c784007e02934
+Block data: no messages
+Messages in block: 0
+Block was generating for 0 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner33
+miner33 gets 100 VC
+Id: 50
+Timestamp: 1632790808143
+Magic number: 114
+Hash of the previous block:
+00e5a6b7c38c5e587d4927f73f0145849e0431be2afc0e18691c784007e02934
+Hash of the block:
+000bd9ee8424d312dc3f65a78300225083655f492334f7732fc59072283bc0ef
+Block data: no messages
+Messages in block: 0
+Block was generating for 0 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner33
+miner33 gets 100 VC
+Id: 51
+Timestamp: 1632790808176
+Magic number: 491
+Hash of the previous block:
+000bd9ee8424d312dc3f65a78300225083655f492334f7732fc59072283bc0ef
+Hash of the block:
+005f9453b1f513e9a16bd2f9dd8c3a1821bab206693a4ec579544453539fa835
+Block data: no messages
+Messages in block: 0
+Block was generating for 1 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner35
+miner35 gets 100 VC
+Id: 52
+Timestamp: 1632790808217
+Magic number: 637
+Hash of the previous block:
+005f9453b1f513e9a16bd2f9dd8c3a1821bab206693a4ec579544453539fa835
+Hash of the block:
+008d9fcfa17604e0aa169b980775ea9b1f5905aa5bf11906eca54ed859998faa
+Block data: no messages
+Messages in block: 0
+Block was generating for 16 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner35
+miner35 gets 100 VC
+Id: 53
+Timestamp: 1632790808261
+Magic number: 350
+Hash of the previous block:
+008d9fcfa17604e0aa169b980775ea9b1f5905aa5bf11906eca54ed859998faa
+Hash of the block:
+0079f6b62c7083bcd9f38c0e0c55e2afadc655e048d98cb0693bda37bf2ea70f
+Block data: no messages
+Messages in block: 0
+Block was generating for 1 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner35
+miner35 gets 100 VC
+Id: 54
+Timestamp: 1632790808277
+Magic number: 216
+Hash of the previous block:
+0079f6b62c7083bcd9f38c0e0c55e2afadc655e048d98cb0693bda37bf2ea70f
+Hash of the block:
+00cd57a1a37eb3f633e3c5a976e51abc075cecfc363f26a7a84c43686e3ca601
+Block data: no messages
+Messages in block: 0
+Block was generating for 0 milliseconds
+N remained 2
+
+
+Block:
+Created by: miner35
+miner35 gets 100 VC
+Id: 55
+Timestamp: 1632790808295
+Magic number: 100
+Hash of the previous block:
+00cd57a1a37eb3f633e3c5a976e51abc075cecfc363f26a7a84c43686e3ca601
+Hash of the block:
+00c51d1270a16ddd6b2f1ae427848933f39974d3aa79cd72e01f2b8318351fdf
+Block data: no messages
+Messages in block: 0
+Block was generating for 0 milliseconds
+N remained 2
+
+Total time: 0 seconds
+Shutting down threads
+Writing to file
+Done
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
